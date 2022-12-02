@@ -11,6 +11,6 @@ def print_hi(name):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('Hi All. The file has been downloaded using WGET.')
+    print_hi('The file has been downloaded using WGET.')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
